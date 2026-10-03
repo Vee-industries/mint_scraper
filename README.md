@@ -63,3 +63,7 @@ python tests/test_live.py
 ```
 
 Runs real searches through the HTTP API and through the MCP server started by an MCP client. Needs an internet connection.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
