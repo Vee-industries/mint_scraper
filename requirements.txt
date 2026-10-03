@@ -1,0 +1,6 @@
+flask>=3.0
+ddgs>=9.0
+requests>=2.31
+pystray>=0.19
+pillow>=10.0
+mcp>=2.0,<3
